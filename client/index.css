@@ -1,0 +1,38 @@
+﻿body {
+}
+
+
+.layui-form-item .layui-inline {
+    margin-right: 5px!important;
+}
+
+.layui-form-item .layui-input-inline {
+    margin-right: 0!important;
+}
+
+.layui-form-item {
+    margin-bottom: 0 !important;
+}
+
+.layui-form.layui-border-box.layui-table-view {
+    margin-top: 10px !important;
+}
+
+.formEdit .layui-form-item, .formCreate .layui-form-item {
+    margin-bottom: 10px !important;
+}
+
+.tac {
+    text-align: center!important;
+}
+
+/*.layui-form.layui-form-pane {
+    padding: 10px!important;
+}*/
+body {
+    padding: 15px !important;
+}
+
+.mb-5 {
+    margin-bottom: 5px!important;
+}
